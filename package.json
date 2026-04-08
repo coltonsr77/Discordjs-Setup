@@ -1,7 +1,7 @@
 {
   "name": "Discordjs-Setup",
-  "version": "1.0.0",
-  "description": "A npm package that helps with discordjs.",
+  "version": "1.0.0-Beta1",
+  "description": "A npm package that helps with discord.js.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

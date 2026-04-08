@@ -1,2 +1,2 @@
-console.log("To start the setup")
-console.log("Put all of the discord files in the discord folder.")
+console.log("Welcome to DiscordJS Setup!")
+console.log("Make sure you have NodeJS installed and run 'npm install' to install the dependencies.")
