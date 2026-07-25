@@ -9,7 +9,7 @@
   "author": "coltonsr77",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.25.1",
+    "discord.js": "^14.27.0",
     "dotenv": "^17.2.3",
     "npm": "^11.7.0"
   }
