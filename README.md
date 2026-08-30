@@ -1,2 +1,2 @@
 # Discordjs-Setup
-A tool that users with discord.js.
+A tool that helps users with discord.js.
