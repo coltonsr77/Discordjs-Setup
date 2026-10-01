@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "author": "coltonsr77",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "discord.js": "^14.27.0",
     "dotenv": "^18.0.4",
