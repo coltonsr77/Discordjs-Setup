@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "discord.js": "^14.28.1",
-    "dotenv": "^18.0.9",
+    "dotenv": "^18.0.10",
     "npm": "^12.2.2"
   }
 }
